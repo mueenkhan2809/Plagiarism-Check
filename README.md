@@ -1,2 +1,0 @@
-# Plagiarism-Check
-Ashok Sir
